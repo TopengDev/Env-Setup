@@ -37,4 +37,4 @@ download from the official link https://www.putty.org/
 
 
 ### NOTE
-some of the files that are available to be added to direct download files will be provided in this repository in the folder "setup-files", but some files might be obsolete, downloading from the official links is highly recommended.
+some of the files that are available to be provided to this repository will be added in the folder "setup-files", Note that some files might be outdated/obsolete, downloading from the official links is highly recommended.
