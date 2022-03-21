@@ -4,12 +4,12 @@ This setup is for Windows OS
 
 ## Required Programs List
 
-# Atom (IDE) 
+### Atom (IDE) 
 -Download from the official link for newest version https://atom.io/ 
 -the IDE setup files & configurations can be found in this GitHub repository "https://github.com/TopengDev/ATOM-SETUP.git".
-# NodeJS (Javascript runtime environtment)
+### NodeJS (Javascript runtime environtment)
 -download from the official link https://nodejs.org/en/ for newest version.
-# Windows Terminal (Terminal for windows OS)
+### Windows Terminal (Terminal for windows OS)
 -download from microsoft store https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701,
 -install these modules:
 "posh-git"
@@ -26,13 +26,13 @@ This setup is for Windows OS
 "Cascadia Mono PL"
 -Add this line to settings.json(access it from the sttings GUI) in the profiles-default section
 "fontFace": "Cascadia Code PL"
-# Git (Version control system) 
+### Git (Version control system) 
 download from the official link https://git-scm.com/ for newest version.
-# PostMan (API testing tool) 
+### PostMan (API testing tool) 
 download from the official link https://www.postman.com/
-# PuTTY (SSH client for windows) 
+### PuTTY (SSH client for windows) 
 download from the official link https://www.putty.org/
 
 
-## NOTE
+### NOTE
 some of the files that are available to be added to direct download files will be provided in this repository in the folder "setup-files", but some files might be obsolete, downloading from the official links is highly recommended.
