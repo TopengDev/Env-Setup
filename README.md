@@ -15,8 +15,10 @@ This setup is for Windows OS
 "posh-git"  
 "oh-my-posh"
 - Type this commands to install:  
->Install-Module posh-git -Scope CurrentUser  
->Install-Module oh-my-posh -Scope CurrentUser
+```  
+Install-Module posh-git -Scope CurrentUser  
+Install-Module oh-my-posh -Scope CurrentUser  
+```
 - Add these lines to $PROFILE (open with notepad)  
 >Import-Module posh-git  
 >Import-Module oh-my-posh  
