@@ -26,7 +26,7 @@ Install-Module oh-my-posh -Scope CurrentUser
 - Download and install this font https://github.com/microsoft/cascadia-code/releases  
 "Cascadia Code PL"  
 "Cascadia Mono PL"  
--Add this line to settings.json(access it from the sttings GUI) in the profiles-default section  
+- Add this line to settings.json(access it from the sttings GUI) in the profiles-default section  
 >"fontFace": "Cascadia Code PL"  
 ### Git (Version control system) 
 download from the official link https://git-scm.com/ for newest version.
