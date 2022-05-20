@@ -4,7 +4,7 @@ This setup is for Windows OS
 
 ## Required Programs List
 
-### Atom (IDE) 
+### Atom (Text Editor) 
 - Download from the official link for newest version https://atom.io/ 
 - the IDE setup files & configurations can be found in this GitHub repository "https://github.com/TopengDev/ATOM-SETUP.git".
 ### NodeJS (Javascript runtime environtment)
